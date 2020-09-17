@@ -36,7 +36,7 @@ susan.height    # => "5'11""
 susan.eye_color # => "Green"
 ```
 
-* Your initialize method should use iteration and the `.send` method to mass assign the value of each key/value pair to its associated key (i.e. method). Refer to the previous reading to help you solve this one.
+* Your initialize method should use iteration and the `.send` method to mass assig                                                                                                                 n the value of each key/value pair to its associated key (i.e. method). Refer to the previous reading to help you solve this one.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/mass-assignment' title='Mass Assignment'>Mass Assignment</a> on Learn.co and start learning to code for free.</p>
 
